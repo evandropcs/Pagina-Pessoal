@@ -1,3 +1,3 @@
 # Pagina Pessoal - Evandro Costa
 
-https://evandropcs.github.io/Desafio-D8/
+https://evandropcs.github.io/Pagina-Pessoal/
